@@ -1,10 +1,10 @@
-# Diseño de rutas de recolección utilizando el algoritmo de optimización por colonia de hormigas
+#  SEMÁFOROS INTELIGENTES PARA LA REGULACIÓN DEL TRÁFICO VEHICULAR
 
 *PERCIBE
-  Distancias y características de los clientes
+Densidad Vehicular
 
 *DECIDE
-  Compara las rutas y selecciona la más eficiente
+El flujo de vehiculos y Duracion de luces
 
 *ACCIONA
-  Genera la ruta óptima de reparto
+Luces del Semaforo 
